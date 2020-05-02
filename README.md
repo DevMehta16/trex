@@ -1,2 +1,2 @@
 # trex
-trex game using p5.play
+trex game made using p5.play
